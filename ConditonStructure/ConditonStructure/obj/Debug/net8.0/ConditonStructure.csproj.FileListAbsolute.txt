@@ -1,0 +1,14 @@
+C:\Users\sabir\OneDrive\Рабочий стол\ConditonStructure\ConditonStructure\bin\Debug\net8.0\ConditonStructure.exe
+C:\Users\sabir\OneDrive\Рабочий стол\ConditonStructure\ConditonStructure\bin\Debug\net8.0\ConditonStructure.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\ConditonStructure\ConditonStructure\bin\Debug\net8.0\ConditonStructure.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\ConditonStructure\ConditonStructure\bin\Debug\net8.0\ConditonStructure.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ConditonStructure\ConditonStructure\bin\Debug\net8.0\ConditonStructure.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ConditonStructure\ConditonStructure\obj\Debug\net8.0\ConditonStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\ConditonStructure\ConditonStructure\obj\Debug\net8.0\ConditonStructure.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ConditonStructure\ConditonStructure\obj\Debug\net8.0\ConditonStructure.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\ConditonStructure\ConditonStructure\obj\Debug\net8.0\ConditonStructure.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ConditonStructure\ConditonStructure\obj\Debug\net8.0\ConditonStructure.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ConditonStructure\ConditonStructure\obj\Debug\net8.0\refint\ConditonStructure.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ConditonStructure\ConditonStructure\obj\Debug\net8.0\ConditonStructure.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ConditonStructure\ConditonStructure\obj\Debug\net8.0\ConditonStructure.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ConditonStructure\ConditonStructure\obj\Debug\net8.0\ref\ConditonStructure.dll
