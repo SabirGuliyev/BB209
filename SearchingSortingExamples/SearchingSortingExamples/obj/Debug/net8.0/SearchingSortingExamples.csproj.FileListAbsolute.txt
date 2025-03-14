@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\BB209\SearchingSortingExamples\SearchingSortingExamples\bin\Debug\net8.0\SearchingSortingExamples.exe
+C:\Users\sabir\Desktop\BB209\SearchingSortingExamples\SearchingSortingExamples\bin\Debug\net8.0\SearchingSortingExamples.deps.json
+C:\Users\sabir\Desktop\BB209\SearchingSortingExamples\SearchingSortingExamples\bin\Debug\net8.0\SearchingSortingExamples.runtimeconfig.json
+C:\Users\sabir\Desktop\BB209\SearchingSortingExamples\SearchingSortingExamples\bin\Debug\net8.0\SearchingSortingExamples.dll
+C:\Users\sabir\Desktop\BB209\SearchingSortingExamples\SearchingSortingExamples\bin\Debug\net8.0\SearchingSortingExamples.pdb
+C:\Users\sabir\Desktop\BB209\SearchingSortingExamples\SearchingSortingExamples\obj\Debug\net8.0\SearchingSortingExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\BB209\SearchingSortingExamples\SearchingSortingExamples\obj\Debug\net8.0\SearchingSortingExamples.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\BB209\SearchingSortingExamples\SearchingSortingExamples\obj\Debug\net8.0\SearchingSortingExamples.AssemblyInfo.cs
+C:\Users\sabir\Desktop\BB209\SearchingSortingExamples\SearchingSortingExamples\obj\Debug\net8.0\SearchingSortingExamples.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\BB209\SearchingSortingExamples\SearchingSortingExamples\obj\Debug\net8.0\SearchingSortingExamples.sourcelink.json
+C:\Users\sabir\Desktop\BB209\SearchingSortingExamples\SearchingSortingExamples\obj\Debug\net8.0\SearchingSortingExamples.dll
+C:\Users\sabir\Desktop\BB209\SearchingSortingExamples\SearchingSortingExamples\obj\Debug\net8.0\refint\SearchingSortingExamples.dll
+C:\Users\sabir\Desktop\BB209\SearchingSortingExamples\SearchingSortingExamples\obj\Debug\net8.0\SearchingSortingExamples.pdb
+C:\Users\sabir\Desktop\BB209\SearchingSortingExamples\SearchingSortingExamples\obj\Debug\net8.0\SearchingSortingExamples.genruntimeconfig.cache
+C:\Users\sabir\Desktop\BB209\SearchingSortingExamples\SearchingSortingExamples\obj\Debug\net8.0\ref\SearchingSortingExamples.dll
