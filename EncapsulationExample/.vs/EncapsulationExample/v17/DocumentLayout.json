@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7922B1-D0F1-45BC-A510-703AC2F1CA68}|EncapsulationExample.csproj|c:\\users\\sabir\\desktop\\encapsulationexample\\recordexample\\personclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7922B1-D0F1-45BC-A510-703AC2F1CA68}|EncapsulationExample.csproj|solutionrelative:recordexample\\personclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7922B1-D0F1-45BC-A510-703AC2F1CA68}|EncapsulationExample.csproj|c:\\users\\sabir\\desktop\\encapsulationexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7922B1-D0F1-45BC-A510-703AC2F1CA68}|EncapsulationExample.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7922B1-D0F1-45BC-A510-703AC2F1CA68}|EncapsulationExample.csproj|c:\\users\\sabir\\desktop\\encapsulationexample\\recordexample\\personrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7922B1-D0F1-45BC-A510-703AC2F1CA68}|EncapsulationExample.csproj|solutionrelative:recordexample\\personrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7922B1-D0F1-45BC-A510-703AC2F1CA68}|EncapsulationExample.csproj|c:\\users\\sabir\\desktop\\encapsulationexample\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7922B1-D0F1-45BC-A510-703AC2F1CA68}|EncapsulationExample.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA7922B1-D0F1-45BC-A510-703AC2F1CA68}|EncapsulationExample.csproj|c:\\users\\sabir\\desktop\\encapsulationexample\\models\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA7922B1-D0F1-45BC-A510-703AC2F1CA68}|EncapsulationExample.csproj|solutionrelative:models\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PersonRecord.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\RecordExample\\PersonRecord.cs",
+              "RelativeDocumentMoniker": "RecordExample\\PersonRecord.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\RecordExample\\PersonRecord.cs",
+              "RelativeToolTip": "RecordExample\\PersonRecord.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:08:08.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonClass.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\RecordExample\\PersonClass.cs",
+              "RelativeDocumentMoniker": "RecordExample\\PersonClass.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\RecordExample\\PersonClass.cs",
+              "RelativeToolTip": "RecordExample\\PersonClass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T12:06:53.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AdminUser.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\Models\\AdminUser.cs",
+              "RelativeDocumentMoniker": "Models\\AdminUser.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\Models\\AdminUser.cs",
+              "RelativeToolTip": "Models\\AdminUser.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAMwA8AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:29:29.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAYwEIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T10:21:45.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\EncapsulationExample\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T09:51:46.341Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
