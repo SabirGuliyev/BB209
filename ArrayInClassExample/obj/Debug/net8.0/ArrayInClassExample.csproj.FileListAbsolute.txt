@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\ArrayInClassExample\bin\Debug\net8.0\ArrayInClassExample.exe
+C:\Users\sabir\Desktop\ArrayInClassExample\bin\Debug\net8.0\ArrayInClassExample.deps.json
+C:\Users\sabir\Desktop\ArrayInClassExample\bin\Debug\net8.0\ArrayInClassExample.runtimeconfig.json
+C:\Users\sabir\Desktop\ArrayInClassExample\bin\Debug\net8.0\ArrayInClassExample.dll
+C:\Users\sabir\Desktop\ArrayInClassExample\bin\Debug\net8.0\ArrayInClassExample.pdb
+C:\Users\sabir\Desktop\ArrayInClassExample\obj\Debug\net8.0\ArrayInClassExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\ArrayInClassExample\obj\Debug\net8.0\ArrayInClassExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\ArrayInClassExample\obj\Debug\net8.0\ArrayInClassExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\ArrayInClassExample\obj\Debug\net8.0\ArrayInClassExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\ArrayInClassExample\obj\Debug\net8.0\ArrayInClassExample.dll
+C:\Users\sabir\Desktop\ArrayInClassExample\obj\Debug\net8.0\refint\ArrayInClassExample.dll
+C:\Users\sabir\Desktop\ArrayInClassExample\obj\Debug\net8.0\ArrayInClassExample.pdb
+C:\Users\sabir\Desktop\ArrayInClassExample\obj\Debug\net8.0\ArrayInClassExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\ArrayInClassExample\obj\Debug\net8.0\ref\ArrayInClassExample.dll

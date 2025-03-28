@@ -1,0 +1,14 @@
+C:\Users\sabir\Desktop\AccessExample\bin\Debug\net8.0\AccessExample.exe
+C:\Users\sabir\Desktop\AccessExample\bin\Debug\net8.0\AccessExample.deps.json
+C:\Users\sabir\Desktop\AccessExample\bin\Debug\net8.0\AccessExample.runtimeconfig.json
+C:\Users\sabir\Desktop\AccessExample\bin\Debug\net8.0\AccessExample.dll
+C:\Users\sabir\Desktop\AccessExample\bin\Debug\net8.0\AccessExample.pdb
+C:\Users\sabir\Desktop\AccessExample\obj\Debug\net8.0\AccessExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\AccessExample\obj\Debug\net8.0\AccessExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\AccessExample\obj\Debug\net8.0\AccessExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\AccessExample\obj\Debug\net8.0\AccessExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\AccessExample\obj\Debug\net8.0\AccessExample.dll
+C:\Users\sabir\Desktop\AccessExample\obj\Debug\net8.0\refint\AccessExample.dll
+C:\Users\sabir\Desktop\AccessExample\obj\Debug\net8.0\AccessExample.pdb
+C:\Users\sabir\Desktop\AccessExample\obj\Debug\net8.0\AccessExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\AccessExample\obj\Debug\net8.0\ref\AccessExample.dll
