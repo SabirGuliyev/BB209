@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\BB209\AbstractExample\AbstractExample\bin\Debug\net8.0\AbstractExample.exe
+C:\Users\sabir\Desktop\BB209\AbstractExample\AbstractExample\bin\Debug\net8.0\AbstractExample.deps.json
+C:\Users\sabir\Desktop\BB209\AbstractExample\AbstractExample\bin\Debug\net8.0\AbstractExample.runtimeconfig.json
+C:\Users\sabir\Desktop\BB209\AbstractExample\AbstractExample\bin\Debug\net8.0\AbstractExample.dll
+C:\Users\sabir\Desktop\BB209\AbstractExample\AbstractExample\bin\Debug\net8.0\AbstractExample.pdb
+C:\Users\sabir\Desktop\BB209\AbstractExample\AbstractExample\obj\Debug\net8.0\AbstractExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\BB209\AbstractExample\AbstractExample\obj\Debug\net8.0\AbstractExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\BB209\AbstractExample\AbstractExample\obj\Debug\net8.0\AbstractExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\BB209\AbstractExample\AbstractExample\obj\Debug\net8.0\AbstractExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\BB209\AbstractExample\AbstractExample\obj\Debug\net8.0\AbstractExample.sourcelink.json
+C:\Users\sabir\Desktop\BB209\AbstractExample\AbstractExample\obj\Debug\net8.0\AbstractExample.dll
+C:\Users\sabir\Desktop\BB209\AbstractExample\AbstractExample\obj\Debug\net8.0\refint\AbstractExample.dll
+C:\Users\sabir\Desktop\BB209\AbstractExample\AbstractExample\obj\Debug\net8.0\AbstractExample.pdb
+C:\Users\sabir\Desktop\BB209\AbstractExample\AbstractExample\obj\Debug\net8.0\AbstractExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\BB209\AbstractExample\AbstractExample\obj\Debug\net8.0\ref\AbstractExample.dll
