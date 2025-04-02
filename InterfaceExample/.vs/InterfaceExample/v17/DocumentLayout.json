@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\bb209\\interfaceexample\\interfaceexample\\humanity\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\humanity\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\bb209\\interfaceexample\\interfaceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\bb209\\interfaceexample\\interfaceexample\\interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\interfaces\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\bb209\\interfaceexample\\interfaceexample\\models\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\models\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\bb209\\interfaceexample\\interfaceexample\\models\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\models\\ship.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\bb209\\interfaceexample\\interfaceexample\\models\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\models\\plane.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\bb209\\interfaceexample\\interfaceexample\\models\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\models\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\bb209\\interfaceexample\\interfaceexample\\models\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\models\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\bb209\\interfaceexample\\interfaceexample\\interfaces\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\interfaces\\iswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\bb209\\interfaceexample\\interfaceexample\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\bb209\\interfaceexample\\interfaceexample\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\models\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\bb209\\interfaceexample\\interfaceexample\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|c:\\users\\sabir\\desktop\\bb209\\interfaceexample\\interfaceexample\\models\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C46370-4B8A-43B1-BC60-0D6A54B4723F}|InterfaceExample\\InterfaceExample.csproj|solutionrelative:interfaceexample\\models\\cow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Humanity\\Person.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Humanity\\Person.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Humanity\\Person.cs",
+              "RelativeToolTip": "InterfaceExample\\Humanity\\Person.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAADwvxAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:49:22.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Ship.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Ship.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Models\\Ship.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Ship.cs",
+              "RelativeToolTip": "InterfaceExample\\Models\\Ship.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:24:35.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Plane.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Plane.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Models\\Plane.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Plane.cs",
+              "RelativeToolTip": "InterfaceExample\\Models\\Plane.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:24:03.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Duck.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Models\\Duck.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Duck.cs",
+              "RelativeToolTip": "InterfaceExample\\Models\\Duck.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA1wBoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:22:50.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ISwim.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Interfaces\\ISwim.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Interfaces\\ISwim.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Interfaces\\ISwim.cs",
+              "RelativeToolTip": "InterfaceExample\\Interfaces\\ISwim.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:18:01.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IFly.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Interfaces\\IFly.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Interfaces\\IFly.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Interfaces\\IFly.cs",
+              "RelativeToolTip": "InterfaceExample\\Interfaces\\IFly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T11:00:14.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Penguin.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Penguin.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Models\\Penguin.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Penguin.cs",
+              "RelativeToolTip": "InterfaceExample\\Models\\Penguin.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:38:28.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Eagle.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Models\\Eagle.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Eagle.cs",
+              "RelativeToolTip": "InterfaceExample\\Models\\Eagle.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:33:35.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Bird.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Models\\Bird.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Bird.cs",
+              "RelativeToolTip": "InterfaceExample\\Models\\Bird.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAkAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:30:00.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Dog.cs",
+              "RelativeToolTip": "InterfaceExample\\Models\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:19:43.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Animal.cs",
+              "RelativeToolTip": "InterfaceExample\\Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:11:40.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Program.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Program.cs",
+              "RelativeToolTip": "InterfaceExample\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAArwBUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:10:47.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Cow.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Cow.cs",
+              "RelativeDocumentMoniker": "InterfaceExample\\Models\\Cow.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\InterfaceExample\\InterfaceExample\\Models\\Cow.cs",
+              "RelativeToolTip": "InterfaceExample\\Models\\Cow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T10:20:29.155Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
