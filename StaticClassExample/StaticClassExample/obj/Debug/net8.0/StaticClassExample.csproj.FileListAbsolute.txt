@@ -1,0 +1,15 @@
+C:\Users\sabir\Desktop\BB209\StaticClassExample\StaticClassExample\bin\Debug\net8.0\StaticClassExample.exe
+C:\Users\sabir\Desktop\BB209\StaticClassExample\StaticClassExample\bin\Debug\net8.0\StaticClassExample.deps.json
+C:\Users\sabir\Desktop\BB209\StaticClassExample\StaticClassExample\bin\Debug\net8.0\StaticClassExample.runtimeconfig.json
+C:\Users\sabir\Desktop\BB209\StaticClassExample\StaticClassExample\bin\Debug\net8.0\StaticClassExample.dll
+C:\Users\sabir\Desktop\BB209\StaticClassExample\StaticClassExample\bin\Debug\net8.0\StaticClassExample.pdb
+C:\Users\sabir\Desktop\BB209\StaticClassExample\StaticClassExample\obj\Debug\net8.0\StaticClassExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\BB209\StaticClassExample\StaticClassExample\obj\Debug\net8.0\StaticClassExample.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\BB209\StaticClassExample\StaticClassExample\obj\Debug\net8.0\StaticClassExample.AssemblyInfo.cs
+C:\Users\sabir\Desktop\BB209\StaticClassExample\StaticClassExample\obj\Debug\net8.0\StaticClassExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\BB209\StaticClassExample\StaticClassExample\obj\Debug\net8.0\StaticClassExample.sourcelink.json
+C:\Users\sabir\Desktop\BB209\StaticClassExample\StaticClassExample\obj\Debug\net8.0\StaticClassExample.dll
+C:\Users\sabir\Desktop\BB209\StaticClassExample\StaticClassExample\obj\Debug\net8.0\refint\StaticClassExample.dll
+C:\Users\sabir\Desktop\BB209\StaticClassExample\StaticClassExample\obj\Debug\net8.0\StaticClassExample.pdb
+C:\Users\sabir\Desktop\BB209\StaticClassExample\StaticClassExample\obj\Debug\net8.0\StaticClassExample.genruntimeconfig.cache
+C:\Users\sabir\Desktop\BB209\StaticClassExample\StaticClassExample\obj\Debug\net8.0\ref\StaticClassExample.dll

@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\BB209\\StaticClassExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADBF8B4-68EB-42A7-9050-6729C07F3F09}|StaticClassExample\\StaticClassExample.csproj|c:\\users\\sabir\\desktop\\bb209\\staticclassexample\\staticclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADBF8B4-68EB-42A7-9050-6729C07F3F09}|StaticClassExample\\StaticClassExample.csproj|solutionrelative:staticclassexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADBF8B4-68EB-42A7-9050-6729C07F3F09}|StaticClassExample\\StaticClassExample.csproj|c:\\users\\sabir\\desktop\\bb209\\staticclassexample\\staticclassexample\\test\\pointstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADBF8B4-68EB-42A7-9050-6729C07F3F09}|StaticClassExample\\StaticClassExample.csproj|solutionrelative:staticclassexample\\test\\pointstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADBF8B4-68EB-42A7-9050-6729C07F3F09}|StaticClassExample\\StaticClassExample.csproj|c:\\users\\sabir\\desktop\\bb209\\staticclassexample\\staticclassexample\\test\\pointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADBF8B4-68EB-42A7-9050-6729C07F3F09}|StaticClassExample\\StaticClassExample.csproj|solutionrelative:staticclassexample\\test\\pointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADBF8B4-68EB-42A7-9050-6729C07F3F09}|StaticClassExample\\StaticClassExample.csproj|c:\\users\\sabir\\desktop\\bb209\\staticclassexample\\staticclassexample\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADBF8B4-68EB-42A7-9050-6729C07F3F09}|StaticClassExample\\StaticClassExample.csproj|solutionrelative:staticclassexample\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADBF8B4-68EB-42A7-9050-6729C07F3F09}|StaticClassExample\\StaticClassExample.csproj|c:\\users\\sabir\\desktop\\bb209\\staticclassexample\\staticclassexample\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADBF8B4-68EB-42A7-9050-6729C07F3F09}|StaticClassExample\\StaticClassExample.csproj|solutionrelative:staticclassexample\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3ADBF8B4-68EB-42A7-9050-6729C07F3F09}|StaticClassExample\\StaticClassExample.csproj|c:\\users\\sabir\\desktop\\bb209\\staticclassexample\\staticclassexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3ADBF8B4-68EB-42A7-9050-6729C07F3F09}|StaticClassExample\\StaticClassExample.csproj|solutionrelative:staticclassexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PointStruct.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\StaticClassExample\\StaticClassExample\\Test\\PointStruct.cs",
+              "RelativeDocumentMoniker": "StaticClassExample\\Test\\PointStruct.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\StaticClassExample\\StaticClassExample\\Test\\PointStruct.cs",
+              "RelativeToolTip": "StaticClassExample\\Test\\PointStruct.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwBEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:53:38.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PointClass.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\StaticClassExample\\StaticClassExample\\Test\\PointClass.cs",
+              "RelativeDocumentMoniker": "StaticClassExample\\Test\\PointClass.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\StaticClassExample\\StaticClassExample\\Test\\PointClass.cs",
+              "RelativeToolTip": "StaticClassExample\\Test\\PointClass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T11:53:26.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\StaticClassExample\\StaticClassExample\\Helper.cs",
+              "RelativeDocumentMoniker": "StaticClassExample\\Helper.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\StaticClassExample\\StaticClassExample\\Helper.cs",
+              "RelativeToolTip": "StaticClassExample\\Helper.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAwAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:50:28.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\StaticClassExample\\StaticClassExample\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "StaticClassExample\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\StaticClassExample\\StaticClassExample\\Models\\Dog.cs",
+              "RelativeToolTip": "StaticClassExample\\Models\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:45:54.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\StaticClassExample\\StaticClassExample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "StaticClassExample\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\StaticClassExample\\StaticClassExample\\Models\\Person.cs",
+              "RelativeToolTip": "StaticClassExample\\Models\\Person.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:44:20.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\StaticClassExample\\StaticClassExample\\Program.cs",
+              "RelativeDocumentMoniker": "StaticClassExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\StaticClassExample\\StaticClassExample\\Program.cs",
+              "RelativeToolTip": "StaticClassExample\\Program.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAQwCEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-03T10:20:10.351Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
