@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "Name": "S22",
+    "Price": 2200.0,
+    "Category": { "Name": "SmartPhone" }
+  },
+  {
+    "Id": 2,
+    "Name": "Iphone 15",
+    "Price": 1500.0,
+    "Category": { "Name": "SmartPhone" }
+  },
+  {
+    "Id": 4,
+    "Name": "LG",
+    "Price": 4500.0,
+    "Category": { "Name": "TV" }
+  },
+  {
+    "Id": 5,
+    "Name": "POCO",
+    "Price": 200.0,
+    "Category": { "Name": "SmartPhone" }
+  }
+]
+[
+  {
+    "Id": 1,
+    "Name": "S22",
+    "Price": 2200.0,
+    "Category": { "Name": "SmartPhone" }
+  },
+  {
+    "Id": 2,
+    "Name": "Iphone 15",
+    "Price": 1500.0,
+    "Category": { "Name": "SmartPhone" }
+  },
+  {
+    "Id": 4,
+    "Name": "LG",
+    "Price": 4500.0,
+    "Category": { "Name": "TV" }
+  },
+  {
+    "Id": 5,
+    "Name": "POCO",
+    "Price": 200.0,
+    "Category": { "Name": "SmartPhone" }
+  },
+  {
+    "Id": 6,
+    "Name": "POCO5",
+    "Price": 200.0,
+    "Category": { "Name": "SmartPhone" }
+  }
+]

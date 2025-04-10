@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\BB209\\StreamExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7000B20F-DBBE-4AB8-BF83-6E9ED573ADB1}|StreamExample\\StreamExample.csproj|c:\\users\\sabir\\desktop\\bb209\\streamexample\\streamexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7000B20F-DBBE-4AB8-BF83-6E9ED573ADB1}|StreamExample\\StreamExample.csproj|solutionrelative:streamexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000B20F-DBBE-4AB8-BF83-6E9ED573ADB1}|StreamExample\\StreamExample.csproj|c:\\users\\sabir\\desktop\\bb209\\streamexample\\streamexample\\files\\productsjson.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7000B20F-DBBE-4AB8-BF83-6E9ED573ADB1}|StreamExample\\StreamExample.csproj|solutionrelative:streamexample\\files\\productsjson.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000B20F-DBBE-4AB8-BF83-6E9ED573ADB1}|StreamExample\\StreamExample.csproj|c:\\users\\sabir\\desktop\\bb209\\streamexample\\streamexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7000B20F-DBBE-4AB8-BF83-6E9ED573ADB1}|StreamExample\\StreamExample.csproj|solutionrelative:streamexample\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7000B20F-DBBE-4AB8-BF83-6E9ED573ADB1}|StreamExample\\StreamExample.csproj|c:\\users\\sabir\\desktop\\bb209\\streamexample\\streamexample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7000B20F-DBBE-4AB8-BF83-6E9ED573ADB1}|StreamExample\\StreamExample.csproj|solutionrelative:streamexample\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductsJson.json",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\StreamExample\\StreamExample\\Files\\ProductsJson.json",
+              "RelativeDocumentMoniker": "StreamExample\\Files\\ProductsJson.json",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\StreamExample\\StreamExample\\Files\\ProductsJson.json",
+              "RelativeToolTip": "StreamExample\\Files\\ProductsJson.json",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T12:36:34.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\StreamExample\\StreamExample\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "StreamExample\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\StreamExample\\StreamExample\\Models\\Category.cs",
+              "RelativeToolTip": "StreamExample\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:32:17.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\StreamExample\\StreamExample\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "StreamExample\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\StreamExample\\StreamExample\\Models\\Product.cs",
+              "RelativeToolTip": "StreamExample\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:29:30.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\StreamExample\\StreamExample\\Program.cs",
+              "RelativeDocumentMoniker": "StreamExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\StreamExample\\StreamExample\\Program.cs",
+              "RelativeToolTip": "StreamExample\\Program.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T10:27:17.301Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
