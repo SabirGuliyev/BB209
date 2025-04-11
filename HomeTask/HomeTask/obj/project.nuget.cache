@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "miONDQnHOlQL/q0UzwdJiBiksHFSYD/BB4lJ7hqY2bvDXZkkDfP8ZL+buO3qOVj6vSezSTOTAJdacHDUILjLlg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sabir\\Desktop\\BB209\\HomeTask\\HomeTask\\HomeTask.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sabir\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
