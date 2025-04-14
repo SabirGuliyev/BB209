@@ -1,0 +1,330 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\dip\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\dip\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\dip\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\dip\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\dip\\paw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\dip\\paw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\dip\\scissor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\dip\\scissor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\dip\\icut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\dip\\icut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\lsp\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\lsp\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\lsp\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\lsp\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\lsp\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\lsp\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\lsp\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\lsp\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\lsp\\flyshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\lsp\\flyshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\ocp\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\ocp\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\ocp\\imeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\ocp\\imeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\ocp\\mushedpotato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\ocp\\mushedpotato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\ocp\\spagetti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\ocp\\spagetti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|c:\\users\\sabir\\desktop\\bb209\\solidexamples\\solidexamples\\ocp\\frenchfries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40D5000D-5542-4D10-8D3D-E9AC30C006C1}|SolidExamples\\SolidExamples.csproj|solutionrelative:solidexamples\\ocp\\frenchfries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\Group.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\Group.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\Group.cs",
+              "RelativeToolTip": "SolidExamples\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:32:05.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\Student.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\Student.cs",
+              "RelativeToolTip": "SolidExamples\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:31:43.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Paw.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\DIP\\Paw.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\DIP\\Paw.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\DIP\\Paw.cs",
+              "RelativeToolTip": "SolidExamples\\DIP\\Paw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:28:10.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Scissor.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\DIP\\Scissor.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\DIP\\Scissor.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\DIP\\Scissor.cs",
+              "RelativeToolTip": "SolidExamples\\DIP\\Scissor.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:25:05.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICut.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\DIP\\ICut.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\DIP\\ICut.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\DIP\\ICut.cs",
+              "RelativeToolTip": "SolidExamples\\DIP\\ICut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:22:46.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Knife.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\DIP\\Knife.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\DIP\\Knife.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\DIP\\Knife.cs",
+              "RelativeToolTip": "SolidExamples\\DIP\\Knife.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:18:27.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\DIP\\Pizza.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\DIP\\Pizza.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\DIP\\Pizza.cs",
+              "RelativeToolTip": "SolidExamples\\DIP\\Pizza.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T12:18:01.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFly.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\LSP\\IFly.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\LSP\\IFly.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\LSP\\IFly.cs",
+              "RelativeToolTip": "SolidExamples\\LSP\\IFly.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:37:56.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FlyShow.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\LSP\\FlyShow.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\LSP\\FlyShow.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\LSP\\FlyShow.cs",
+              "RelativeToolTip": "SolidExamples\\LSP\\FlyShow.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:31:14.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Penguin.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\LSP\\Penguin.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\LSP\\Penguin.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\LSP\\Penguin.cs",
+              "RelativeToolTip": "SolidExamples\\LSP\\Penguin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:30:06.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\LSP\\Eagle.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\LSP\\Eagle.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\LSP\\Eagle.cs",
+              "RelativeToolTip": "SolidExamples\\LSP\\Eagle.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:29:58.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\LSP\\Bird.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\LSP\\Bird.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\LSP\\Bird.cs",
+              "RelativeToolTip": "SolidExamples\\LSP\\Bird.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:28:23.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\Program.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\Program.cs",
+              "RelativeToolTip": "SolidExamples\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T10:14:09.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IMeal.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\OCP\\IMeal.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\OCP\\IMeal.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\OCP\\IMeal.cs",
+              "RelativeToolTip": "SolidExamples\\OCP\\IMeal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:11:30.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MushedPotato.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\OCP\\MushedPotato.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\OCP\\MushedPotato.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\OCP\\MushedPotato.cs",
+              "RelativeToolTip": "SolidExamples\\OCP\\MushedPotato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:12:04.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Spagetti.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\OCP\\Spagetti.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\OCP\\Spagetti.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\OCP\\Spagetti.cs",
+              "RelativeToolTip": "SolidExamples\\OCP\\Spagetti.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:16:13.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Chef.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\OCP\\Chef.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\OCP\\Chef.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\OCP\\Chef.cs",
+              "RelativeToolTip": "SolidExamples\\OCP\\Chef.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:05:57.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "FrenchFries.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\OCP\\FrenchFries.cs",
+              "RelativeDocumentMoniker": "SolidExamples\\OCP\\FrenchFries.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BB209\\SolidExamples\\SolidExamples\\OCP\\FrenchFries.cs",
+              "RelativeToolTip": "SolidExamples\\OCP\\FrenchFries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T11:14:56.971Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
